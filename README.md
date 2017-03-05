@@ -1,2 +1,2 @@
 # Best-Practices
-Best Practices of web development
+Watch this space! Coming up soon ...
